@@ -2,8 +2,12 @@
 
 ![Image](https://i.imgur.com/Cfgy7mN.png)
 不常寫長文，不定時更新文章內容
+以前喜歡寫很長的小說 現在不知道為什麼在做工程師
 
 喜歡日本文化卻生在台灣
+
+
+目前有陸續在寫部落格 [請按這](https://chitoseyu.github.io/）
 
 # 背景
 
