@@ -48,18 +48,18 @@
 - HTML / CSS / Javascript 
 <img src="https://i.imgur.com/1c6PSUL.png" alt="H" style="zoom:80%;" />
   
-  - 有基礎觀念  能靠網路解決大部分使用者需求
+   - 有基礎觀念  能靠網路解決大部分使用者需求
 
 - Python
   
-  <img src="https://i.imgur.com/75PeeAX.png" style="zoom:30%;" />
+  <img src="https://i.imgur.com/75PeeAX.png" style="zoom:10%;" />
   
   - 用於網頁爬蟲( 讀取檔案去地圖網站轉換經緯度 )
   - 簡單的Discord Bot             
   
 - Laravel
   
-  <img src="https://i.imgur.com/n1eTFzG.png" style="zoom:30%;" />
+  <img src="https://i.imgur.com/n1eTFzG.png" style="zoom:10%;" />
   
   - 有基礎觀念 開發ＱＢＱ系統的開發主框架
   
@@ -71,7 +71,7 @@
   
 - ＭongoDB
   
-  <img src="https://i.imgur.com/LcNEkrw.jpg" style="zoom:45%;" />
+  <img src="https://i.imgur.com/LcNEkrw.jpg" style="zoom:30%;" />
   
   - 有基礎觀念 當初要作為專題的資料庫使用 但後來因別的因素而沒使用到最後
 
