@@ -52,7 +52,7 @@
 
 - Python
   
-  <img src="https://i.imgur.com/75PeeAX.png" style="zoom:50%;" />
+  <img src="https://i.imgur.com/75PeeAX.png" style="zoom:30%;" />
   
   - 用於網頁爬蟲( 讀取檔案去地圖網站轉換經緯度 )
   - 簡單的Discord Bot             
