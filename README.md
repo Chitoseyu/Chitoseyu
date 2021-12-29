@@ -48,6 +48,9 @@
 - HTML / CSS / Javascript 
 <img src="https://i.imgur.com/1c6PSUL.png" alt="H" style="zoom:80%;" />
 
+- Git
+  - 有基礎觀念並有與其他人協作同一專案過的經驗
+
 - Python
   - 用於網頁爬蟲( 讀取檔案去地圖網站轉換經緯度 )
   - 簡單的Discord Bot             
